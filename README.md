@@ -46,4 +46,4 @@ Check out my portfolio: [Vitjohn Technology](https://vitjohntechnology.tech)
 ---
 
 ## Certificate  
-![Certificate](./Vitus_John_Oguike_Certificate.png)  
+![Certificate](https://github.com/vitus-john/vitus-john/blob/main/Vitus%20John%20Oguike.pdf)  
